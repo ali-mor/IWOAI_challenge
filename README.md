@@ -1,4 +1,3 @@
-Readme
 All the codes are implemented and tested in Ubuntu 18.04 LTS. The deep learning part is implemented using Tensorflow 1.11 in Nvidia GeForce GTX 1080 GPU. The other Python 2.7 libraries used are as follows: Numpy 1.13.3, h5py 2.8, sys, os, random, SimpleITK. 
 All the codes and the folders (models and ref_img) should be in the same directory before running the codes. 
 
