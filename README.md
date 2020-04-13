@@ -1,2 +1,2 @@
 # IWOAI_challenge
-The code usedfor IWOAI challenge
+The code used for IWOAI challenge
