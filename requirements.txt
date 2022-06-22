@@ -1,5 +1,5 @@
 Tensorflow==1.11
-Numpy==1.13.3 
+Numpy==1.22.0 
 h5py==2.8 
 sys
 os
